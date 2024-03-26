@@ -1,0 +1,8 @@
+selenium
+webdriver_manager
+pandas
+numpy
+keras
+scipy
+tensorflow
+pillow
